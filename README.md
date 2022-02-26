@@ -10,6 +10,6 @@ Project ini mengimplementasikan materi composition, dimana pada project ini terd
 - ### C++
 ![Latihan3 C++](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatA_C%2B%2B.png)
 - ### Python
-![Latihan3 PHP](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_PHP.png)
+![Latihan3 Python](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_Python.png)
 - ### PHP
-![Latihan3 C++](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_Python.png)
+![Latihan3 PHP](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_PHP.png)

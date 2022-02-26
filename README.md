@@ -7,4 +7,9 @@ Project ini mengimplementasikan materi composition, dimana pada project ini terd
 ### ScreenShot Hasil Kompilasi Progam
 - ### Java
 ![Latihan3 Java](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_Java.png)
-- 
+- ### C++
+![Latihan3 C++](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatA_C%2B%2B.png)
+- ### Python
+![Latihan3 PHP](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_PHP.png)
+- ### PHP
+![Latihan3 C++](https://github.com/Gonken-GN/LATIHAN3DPBO2022/blob/main/ScreenShoots/LatB_Python.png)
